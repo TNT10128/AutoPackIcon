@@ -1,6 +1,9 @@
 # 📸 AutoPackIcon
 Easily generate Minecraft pack icons from within your workspace.
 
+![GNU GPL v3](https://img.shields.io/github/license/TNT10128/AutoPackIcon?style=for-the-badge)
+![Codefactor code quality](https://img.shields.io/codefactor/grade/github/TNT10128/AutoPackIcon?style=for-the-badge)
+
 ## ℹ️ Information
 This program was made for a specific use case, so it probably
 won't be useful in your situation. When executed inside of
